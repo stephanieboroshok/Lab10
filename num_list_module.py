@@ -1,9 +1,11 @@
 
 def backwardslist(array):
     array.reverse()
+    print (array)
     """ Takes in a list and returns the list backwards"""
 
 def min(array):
+    min()
     """ Returns the lowest number in an list of numbers"""
 
 def firsthalfsum(array):
