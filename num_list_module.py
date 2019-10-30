@@ -15,6 +15,8 @@ def firsthalfsum(array):
         """
 
 def divisibleby(array, divisor):
+    for i in array:
+        print(i/divisor)
     """ Returns each element divisible by the paramater 'divisor' """
 
 def maximum(array):
