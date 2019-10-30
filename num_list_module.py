@@ -29,6 +29,7 @@ def avg(array):
     """ Returns the average of a list of numbers"""
 
 def suprise():
+    print('You Win!!')
     """ Create a surprise function for the person that receives your code.
         Feel free to get creative change parameters, print out shapes,  etc."""
 
@@ -42,8 +43,6 @@ def gcd(array):
         divisible by. 
         EXAMPLE: [500, 50, 20] Greatest Common Divisor = 10
                  [18, 30, 42]  Greatest Common Divisor = 6
-                 [33, 66, 99, 101] Greatest Common Divisor = 1
-                 
-                 """
+                 [33, 66, 99, 101] Greatest Common Divisor = 1"""
 
 
