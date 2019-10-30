@@ -10,7 +10,7 @@ print ('Stephanie Boroshok')
 
 import num_list_module
 intlist1 = [1,10,2,3,4,5]
-max1 = num_list_module.max(intlist1)
-min1 = num_list_module.min(intlist1)
+max1 = num_list_module.maximum(intlist1)
+min1 = num_list_module.minimum(intlist1)
 bckwrds = num_list_module.backwardslist(intlist1)
 avrg = num_list_module.avg(intlist1)
