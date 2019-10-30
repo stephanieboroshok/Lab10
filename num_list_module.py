@@ -9,6 +9,7 @@ def minimum(array):
     """ Returns the lowest number in an list of numbers"""
 
 def firsthalfsum(array):
+
     """Returns the sum of the first half of the list.
         ***IF THE LIST HAS AN ODD NUMBER OF ELEMENTS, split the middle element in
         half and add it to the sum.
@@ -16,7 +17,10 @@ def firsthalfsum(array):
 
 def divisibleby(array, divisor):
     for i in array:
-        print(i/divisor)
+        if i%divisor == 0:
+            print (i)
+        else:
+            pass
     """ Returns each element divisible by the paramater 'divisor' """
 
 def maximum(array):
