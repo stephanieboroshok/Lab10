@@ -4,8 +4,6 @@ def backwardslist(array):
     """ Takes in a list and returns the list backwards"""
 
 def min(array):
-    import math
-    array.minimum()
     """ Returns the lowest number in an list of numbers"""
 
 def firsthalfsum(array):
@@ -18,13 +16,9 @@ def divisibleby(array, divisor):
     """ Returns each element divisible by the paramater 'divisor' """
 
 def max(array):
-   import math
-   array.math.maximum()
-""" Returns the highest number in a list of numbers """
+    """ Returns the highest number in a list of numbers """
 
 def avg(array):
-    import math
-    array.avg()
     """ Returns the average of a list of numbers"""
 
 def suprise():
